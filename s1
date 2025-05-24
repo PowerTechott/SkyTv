@@ -1,4 +1,4 @@
-  { 
+        { 
 	"spider":"./pg1.jar",
 	"sites":[
     {
@@ -22,10 +22,10 @@
 			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
 			"searchable": 1,
 			"changeable": 1,
-      "categories":[
-        "国产剧",
-			  "香港剧",
-        "国产动漫",
+                        "categories":[
+                                "国产剧",
+			        "香港剧",
+                                "国产动漫",
 				"韩国剧",
 				"欧美剧",
 				"日本剧",
